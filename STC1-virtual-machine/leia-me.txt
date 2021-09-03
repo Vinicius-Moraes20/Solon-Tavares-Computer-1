@@ -1,0 +1,5 @@
+Todos arquivos .bin presentes nesta pasta, são apenas para testes de funcionamento, não sendo necessarios no software
+
+Está aplicação, por hora, está sendo desenvolvida para funcionar no sistema operacional Windows, podendo assim, ter erros em outros sistemas operacionais.
+
+O arquivo binário contendo o programa, deve estar presente na mesma pasta da maquina para ser executado.

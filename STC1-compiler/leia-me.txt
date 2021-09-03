@@ -1,0 +1,1 @@
+Todos arquivos .bin e .asm presentes nesta pagina, são apenas códigos de exemplos usados para testar o compilador, não sendo necessários para o uso da aplicação.
